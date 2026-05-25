@@ -1,5 +1,3 @@
-Database Name
-
 CREATE DATABASE spotify;
 
 USE spotify;
